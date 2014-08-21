@@ -1,0 +1,2 @@
+this is a sample text file with more than 64 bytes
+use it for the crypto exercises
